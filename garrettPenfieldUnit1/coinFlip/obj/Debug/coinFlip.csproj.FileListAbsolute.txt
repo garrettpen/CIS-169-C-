@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\coinFlip\coinFlip\bin\Debug\coinFlip.exe.config
+c:\users\user\documents\visual studio 2015\Projects\coinFlip\coinFlip\obj\Debug\coinFlip.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\coinFlip\coinFlip\obj\Debug\coinFlip.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\coinFlip\coinFlip\obj\Debug\coinFlip.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\coinFlip\coinFlip\obj\Debug\coinFlip.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\coinFlip\coinFlip\bin\Debug\coinFlip.exe
+c:\users\user\documents\visual studio 2015\Projects\coinFlip\coinFlip\bin\Debug\coinFlip.pdb
+c:\users\user\documents\visual studio 2015\Projects\coinFlip\coinFlip\obj\Debug\coinFlip.exe
+c:\users\user\documents\visual studio 2015\Projects\coinFlip\coinFlip\obj\Debug\coinFlip.pdb
